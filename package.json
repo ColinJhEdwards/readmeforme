@@ -1,0 +1,22 @@
+{
+  "name": "readmeforme",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinJhEdwards/readmeforme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinJhEdwards/readmeforme/issues"
+  },
+  "homepage": "https://github.com/ColinJhEdwards/readmeforme#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}

@@ -1,7 +1,7 @@
-# a
-  https://github.com/a/a
+# readmeforme
+  https://github.com/colinjhedwards/readmeforme
   # Description
-  a
+  generates a readme
   # Table of Contents
   * [Installation](#installation)
   * [Tests](#tests)
@@ -10,15 +10,15 @@
   * [License](#license)
   * [Questions](#questions)
   # Installation
-  The following the following command(s) should be run to install the necessary dependencies: a
+  The following the following command(s) should be run to install the necessary dependencies: npm i
   # Tests
   The following is needed to run tests: npm test
   # Usage
-  In order to use this app, a
+  In order to use this app, run with node js
   # Contributing
-  Information regarding contributing to the repository: a
+  Information regarding contributing to the repository: loremipsum
   # License
   This project is licensed under the ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg) license.
   # Questions
-  Any questions or issues can be directed to: a
+  Any questions or issues can be directed to: colinjhedwards@live.com
   
